@@ -1,0 +1,23 @@
+{
+  "name": "day-18",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shashank4322/practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shashank4322/practice/issues"
+  },
+  "homepage": "https://github.com/shashank4322/practice#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  }
+}
